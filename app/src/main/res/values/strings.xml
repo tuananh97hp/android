@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">rent-bike</string>
+    <string name="title_home">Home</string>
+    <string name="title_upload">Đăng Bài</string>
+    <string name="title_notifications">Thông Báo</string>
+    <string name="title_user">Người Dùng</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
